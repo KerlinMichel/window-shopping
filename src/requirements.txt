@@ -1,0 +1,8 @@
+requests
+xmltodict
+python-dotenv
+selenium
+pyvirtualdisplay
+opencv-python
+pytesseract
+Pillow
